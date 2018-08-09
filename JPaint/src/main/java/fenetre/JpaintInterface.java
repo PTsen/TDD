@@ -86,7 +86,7 @@ public class JpaintInterface extends JFrame
 	JButton mColorYellow = new JButton(new ImageIcon("images/col1.png"));
 	JButton mColorGreen = new JButton(new ImageIcon("images/col2.png"));
 	
-	private ZoneDessin mZoneDessin = new ZoneDessin();	
+		private ZoneDessin mZoneDessin = new ZoneDessin();
 	private boolean saved = false;
 	
 	private Border mZoneDessinBorder = BorderFactory.createLineBorder(Color.blue, 3);
