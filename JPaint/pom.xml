@@ -40,10 +40,8 @@
             </reportSet>
           </reportSets>
         </plugin>
-      </plugins>
-	  
-	  <plugins>
-      <plugin>
+		
+		<plugin>
         <groupId>org.jacoco</groupId>
         <artifactId>jacoco-maven-plugin</artifactId>
         <reportSets>
@@ -55,7 +53,7 @@
           </reportSet>
         </reportSets>
       </plugin>
-    </plugins>
+      </plugins>
 
 	  
     </reporting>
